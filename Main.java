@@ -1,5 +1,12 @@
 class Main{
     public static void main (String args[]){
+
+/*
+this code will calculate how many ways it will take to climb the 7 stairs 
+Date : 2/7/2023
+*/
+
+        
         /*
 
         stairs = 7 
